@@ -23,6 +23,7 @@
 5. **מצגת אינטראקטיבית חיה (`presentation_app.py`):** ממשק Web חי ב-Streamlit הכולל 10 שקפים אקדמיים, גרף חי וסימולטור שינוי תקציב אינטראקטיבי.
 6. **בקרת גרסאות ותיעוד ב-GitHub:** ניהול שיתופי, היסטוריית קומיטים מתועדת ויומן פרומפטים שקוף (`prompts_log.md`).
 <img src="voter_analysis_chart.png" alt="Voter Analysis Chart" width="700">
+<p>▶️ <a href="microtargeting_demo.mp4">לחצו כאן לצפייה ישירה בסרטון ההדגמה</a></p>
 ---
 
 ## 📂 מבנה המאגר (Repository Structure)
